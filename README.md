@@ -18,11 +18,16 @@ Here are some ideas to get you started:
 # 💪Skills
 ### 💬 Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
 ### 💬 Framework
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=Spring%20Boot&logoColor=White)
 ### 💬 IDE
 ![InteliJ](https://img.shields.io/badge/InteliJ-000000.svg?&style=for-the-badge&logo=InteliJ&logoColor=White)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
+### 💬 Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+
+
 
 <!--
 **JungInLee0130/JungInLee0130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
