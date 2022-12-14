@@ -1,4 +1,4 @@
-# LEE JUNG IN 👋
+# JUNG IN LEE 👋
 
 Here are some ideas to get you started:
 
