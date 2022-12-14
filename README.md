@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ### 💬 Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
-
+### Top Language I used
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JungInLee0130)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
