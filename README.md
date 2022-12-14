@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwjddls0130)](https://solved.ac/dlwjddls0130/)
 
 # 💪Skills
-###💬 Languages
+### 💬 Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-###💬 Framework
+### 💬 Framework
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=Spring%20Boot&logoColor=White)
-###💬 IDE
+### 💬 IDE
 ![InteliJ](https://img.shields.io/badge/InteliJ-000000.svg?&style=for-the-badge&logo=InteliJ&logoColor=White)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 
