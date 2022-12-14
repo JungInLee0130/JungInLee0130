@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ![InteliJ](https://img.shields.io/badge/InteliJ-000000.svg?&style=for-the-badge&logo=InteliJ&logoColor=White)
 
 ### Git-hub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JungInLee0130&show_icons=true&theme=tokyonight)
 
 ### Baekjoon Tier
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwjddls0130)](https://solved.ac/dlwjddls0130/)
