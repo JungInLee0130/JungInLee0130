@@ -2,11 +2,15 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Sejong University, Seoul
 
-- 🌱 I’m currently learning Spring Boot
+### 🎓Education
+2017.03~2023.02 Sejong University, Seoul
 
-- 📫 How to reach me: dlwjddls0130@naver.com
+### 🌱 currently learning
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=Spring%20Boot&logoColor=White)
+
+### 📫 How to reach me: 
+dlwjddls0130@naver.com
 
 
 
@@ -36,4 +40,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+### 🔭  I’m currently working on...
 - -->
