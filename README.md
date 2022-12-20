@@ -12,8 +12,6 @@ Here are some ideas to get you started:
 ### 📫 Email: 
 dlwjddls0130@naver.com
 
-### 🔭 Resume:
-https://silk-evening-659.notion.site/bf94e55166024adda382536d7360892f
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJungInLee0130&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23EDE4E4&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -55,5 +53,7 @@ https://silk-evening-659.notion.site/bf94e55166024adda382536d7360892f
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-### 🔭  I’m currently working on...
+
+### 🔭 Resume:
+https://silk-evening-659.notion.site/bf94e55166024adda382536d7360892f
 - -->
