@@ -3,14 +3,14 @@
 Here are some ideas to get you started:
 
 
-### 🎓Education
-2023.01~ SSAFY <br>
-2017.03~2023.02 Sejong University, Seoul
+## 🎓Education
+- 2023.01~ SSAFY
+- 2017.03~2023.02 Sejong University, Seoul
 
-### 🌱 currently learning
+## 🌱 currently learning
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=Spring%20Boot&logoColor=White)
 
-### 📫 Email: 
+## 📫 Email
 dlwjddls0130@naver.com
 
 
