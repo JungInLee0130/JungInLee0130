@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 
 
 ### 🎓Education
-2023.01~ SSAFY 9th <br>
+2023.01~ SSAFY <br>
 2017.03~2023.02 Sejong University, Seoul
 
 ### 🌱 currently learning
