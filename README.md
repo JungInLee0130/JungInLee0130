@@ -27,16 +27,18 @@ dlwjddls0130@naver.com
 <br> 🤔 have used..<br>
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![C#](https://img.shields.io/badge/C%20Sharp-239120.svg?&style=for-the-badge&logo=C%20Sharp&logoColor=white)
+
 ### 💬 Interested Framework
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=Spring%20Boot&logoColor=White)
 
 ### 💬 IDE
-![InteliJ](https://img.shields.io/badge/InteliJ-000000.svg?&style=for-the-badge&logo=InteliJ&logoColor=White)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000.svg?&style=for-the-badge&logo=IntelliJ&logoColor=White)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 
 <br>🤔 have used..<br>
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=White)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=White)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
 ### 💬 Other tools ususally use
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=White)
