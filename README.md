@@ -2,8 +2,8 @@
 
 Here are some ideas to get you started:
 
-## 👯Resume
-- https://silk-evening-659.notion.site/bf94e55166024adda382536d7360892f
+<!--## 👯Resume
+- https://silk-evening-659.notion.site/bf94e55166024adda382536d7360892f-->
 
 ## 🎓Education
 - 2023.01~ SSAFY
