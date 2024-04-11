@@ -2,8 +2,8 @@
 
 Here are some ideas to get you started:
 
-<!--## 👯Resume
-- https://silk-evening-659.notion.site/bf94e55166024adda382536d7360892f-->
+## 👯Resume
+- https://www.notion.so/75f9f716d55e4260b7288ada038fe979
 
 ## 🎓Education
 - 2023.01~ SSAFY
@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 
 ## 📫 Email
 dlwjddls0130@naver.com
+
 
 
 
