@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - https://www.notion.so/75f9f716d55e4260b7288ada038fe979
 
 ## 🎓Education
-- 2023.01~ SSAFY
+- 2023.01~2023.12 SSAFY
 - 2017.03~2023.02 Sejong University, Seoul
 
 ## 🌱 currently learning
