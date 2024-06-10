@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 
 ## 🌱 currently learning
 ![Spring Boot](https://img.shields.io/badge/springboot-6DB33F?&style=flat-square&logo=springboot&logoColor=white)
+![jpa](https://img.shields.io/badge/jpa-6DB33F.svg?&style=flat-square&logo=springdatajpa&logoColor=white)
 
 ## 📫 Email
 dlwjddls0130@naver.com
@@ -34,7 +35,6 @@ dlwjddls0130@naver.com
 
 ### 💬 Interested Framework
 ![Spring Boot](https://img.shields.io/badge/springboot-6DB33F?&style=flat-square&logo=springboot&logoColor=white)
-![jpa](https://img.shields.io/badge/jpa-6DB33F.svg?&style=flat-square&logo=springdatajpa&logoColor=white)
 
 ### 💬 IDE
 ![IntelliJ](https://img.shields.io/badge/intelliJ-0078FF?&style=flat-square&logo=IntelliJ&logoColor=White)
