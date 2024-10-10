@@ -2,8 +2,8 @@
 
 Here are some ideas to get you started:
 
-## 👯Resume
-- https://www.notion.so/75f9f716d55e4260b7288ada038fe979
+<!--## 👯Resume
+- https://www.notion.so/75f9f716d55e4260b7288ada038fe979-->
 
 ## 🎓Education
 - 2023.01~2023.12 SSAFY
