@@ -33,7 +33,7 @@ dlwjddls0130@naver.com
 ![C#](https://img.shields.io/badge/c%20sharp-239120?&style=flat-square&logo=csharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-000000?&style=flat-square&logo=unity&logoColor=white)
 
-### 💬 Interested Framework
+### 💬 Framework
 ![Spring Boot](https://img.shields.io/badge/springboot-6DB33F?&style=flat-square&logo=springboot&logoColor=white)
 
 ### 💬 IDE
@@ -47,9 +47,6 @@ dlwjddls0130@naver.com
 
 ### 💬 Other tools ususally use
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?&style=flat-square&logo=postman&logoColor=White)
-
-### 💬 mapping
-![jpa](https://img.shields.io/badge/jpa-6DB33F.svg?&style=flat-square&logo=springdatajpa&logoColor=white)
 
 ### 💬 Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white)
