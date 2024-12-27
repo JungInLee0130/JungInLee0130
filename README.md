@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 ![Spring Boot](https://img.shields.io/badge/springboot-6DB33F?&style=flat-square&logo=springboot&logoColor=white)
 ![jpa](https://img.shields.io/badge/jpa-6DB33F.svg?&style=flat-square&logo=springdatajpa&logoColor=white)
 
-## 📫 Email
-dlwjddls0130@naver.com
 
 
 
