@@ -26,25 +26,8 @@ Here are some ideas to get you started:
 ### 💬 Languages
 ![Java](https://img.shields.io/badge/java-ED8B00?&style=flat-square&logo=openjdk&logoColor=white)
 
-<br> 🤔 have used..<br>
-![C](https://img.shields.io/badge/c-A8B9CC?&style=flat-square&logo=C&logoColor=white)
-![C#](https://img.shields.io/badge/c%20sharp-239120?&style=flat-square&logo=csharp&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-000000?&style=flat-square&logo=unity&logoColor=white)
-
 ### 💬 Framework
 ![Spring Boot](https://img.shields.io/badge/springboot-6DB33F?&style=flat-square&logo=springboot&logoColor=white)
-
-### 💬 IDE
-![IntelliJ](https://img.shields.io/badge/intelliJ-0078FF?&style=flat-square&logo=IntelliJ&logoColor=White)
-![Eclipse IDE](https://img.shields.io/badge/eclipse%20IDE-2C2255?&style=flat-square&logo=Eclipse%20IDE&logoColor=white)
-
-<br>🤔 have used..<br>
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=flat-square&logo=android&logoColor=White)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=flat-square&logo=Visual%20Studio&logoColor=White)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
-
-### 💬 Other tools ususally use
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?&style=flat-square&logo=postman&logoColor=White)
 
 ### 💬 Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white)
@@ -52,10 +35,25 @@ Here are some ideas to get you started:
 ![mongodb](https://img.shields.io/badge/mongodb-13C7A3.svg?&style=flat-square&logo=mongodb&logoColor=white)
 ![redis](https://img.shields.io/badge/redis-CD0000.svg?&style=flat-square&logo=redis&logoColor=white)
 
-### infra
+### 💬 infra
 ![aws](https://img.shields.io/badge/aws-E56D29?&style=flat-square&logo=aws&logoColor=white)
 ![docker](https://img.shields.io/badge/docker-289AFF?&style=flat-square&logo=docker&logoColor=white)
 
+### 💬 IDE
+![IntelliJ](https://img.shields.io/badge/intelliJ-0078FF?&style=flat-square&logo=IntelliJ&logoColor=White)
+![Eclipse IDE](https://img.shields.io/badge/eclipse%20IDE-2C2255?&style=flat-square&logo=Eclipse%20IDE&logoColor=white)
+
+### 💬 Other tools ususally use
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?&style=flat-square&logo=postman&logoColor=White)
+<br>
+<br>🤔 have used..<br>
+![C](https://img.shields.io/badge/c-A8B9CC?&style=flat-square&logo=C&logoColor=white)
+![C#](https://img.shields.io/badge/c%20sharp-239120?&style=flat-square&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-000000?&style=flat-square&logo=unity&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=flat-square&logo=android&logoColor=White)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=flat-square&logo=Visual%20Studio&logoColor=White)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
+<br>
 ### 💬 Top Language I used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JungInLee0130)](https://github.com/anuraghazra/github-readme-stats)
 
