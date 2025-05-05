@@ -29,6 +29,9 @@ Here are some ideas to get you started:
 ### 💬 Framework
 ![Spring Boot](https://img.shields.io/badge/springboot-6DB33F?&style=flat-square&logo=springboot&logoColor=white)
 
+### 💬 ORM
+![jpa](https://img.shields.io/badge/jpa-6DB33F.svg?&style=flat-square&logo=springdatajpa&logoColor=white)
+
 ### 💬 Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white)
 ![mariadb](https://img.shields.io/badge/mariadb-4479A1.svg?&style=flat-square&logo=mariadb&logoColor=white)
