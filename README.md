@@ -47,11 +47,13 @@ Here are some ideas to get you started:
 ![IntelliJ](https://img.shields.io/badge/intelliJ-0078FF?&style=for-the-badge&logo=IntelliJ&logoColor=White)
 ![Eclipse IDE](https://img.shields.io/badge/eclipse%20IDE-2C2255?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 
-### 💬 Other tools ususally use
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=White)
+### 💬 Collaboration
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-badge&logo=Jira&logoColor=White)
 ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=White)
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=White)
+
+### 💬 Other tools ususally use
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=White)
 
 <br>
 <br>🤔 have used..<br>
