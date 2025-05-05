@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ![docker](https://img.shields.io/badge/docker-289AFF?&style=for-the-badge&logo=docker&logoColor=white)
 
 ### 💬 IDE
-![IntelliJ](https://img.shields.io/badge/intelliJ-0078FF?&style=for-the-badge&logo=IntelliJ&logoColor=White)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-0078FF?&style=for-the-badge&logo=intellijidea&logoColor=White)
 ![Eclipse IDE](https://img.shields.io/badge/eclipse%20IDE-2C2255?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 
 ### 💬 Collaboration
