@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 - 2017.03~2023.02 Sejong University, Seoul
 
 ## 🌱 currently learning
-![Spring Boot](https://img.shields.io/badge/springboot-6DB33F?&style=flat-square&logo=springboot&logoColor=white)
-![jpa](https://img.shields.io/badge/jpa-6DB33F.svg?&style=flat-square&logo=springdatajpa&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/springboot-6DB33F?&style=for-the-badge&logo=springboot&logoColor=white)
+![jpa](https://img.shields.io/badge/jpa-6DB33F.svg?&style=for-the-badge&logo=springdatajpa&logoColor=white)
 
 
 
@@ -24,30 +24,31 @@ Here are some ideas to get you started:
 
 # 💪Skills
 ### 💬 Languages
-![Java](https://img.shields.io/badge/java-ED8B00?&style=flat-square&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/java-ED8B00?&style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### 💬 Framework
-![Spring Boot](https://img.shields.io/badge/springboot-6DB33F?&style=flat-square&logo=springboot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/springboot-6DB33F?&style=for-the-badge&logo=springboot&logoColor=white)
 
 ### 💬 ORM
-![jpa](https://img.shields.io/badge/jpa-6DB33F.svg?&style=flat-square&logo=springdatajpa&logoColor=white)
+![jpa](https://img.shields.io/badge/jpa-6DB33F.svg?&style=for-the-badge&logo=springdatajpa&logoColor=white)
 
 ### 💬 Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white)
-![mariadb](https://img.shields.io/badge/mariadb-4479A1.svg?&style=flat-square&logo=mariadb&logoColor=white)
-![mongodb](https://img.shields.io/badge/mongodb-13C7A3.svg?&style=flat-square&logo=mongodb&logoColor=white)
-![redis](https://img.shields.io/badge/redis-CD0000.svg?&style=flat-square&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+![mariadb](https://img.shields.io/badge/mariadb-4479A1.svg?&style=for-the-badge&logo=mariadb&logoColor=white)
+![mongodb](https://img.shields.io/badge/mongodb-13C7A3.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
+![redis](https://img.shields.io/badge/redis-CD0000.svg?&style=for-the-badge&logo=redis&logoColor=white)
 
 ### 💬 infra
-![aws](https://img.shields.io/badge/aws-E56D29?&style=flat-square&logo=aws&logoColor=white)
-![docker](https://img.shields.io/badge/docker-289AFF?&style=flat-square&logo=docker&logoColor=white)
+
+![aws](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white)
+![docker](https://img.shields.io/badge/docker-289AFF?&style=for-the-badge&logo=docker&logoColor=white)
 
 ### 💬 IDE
-![IntelliJ](https://img.shields.io/badge/intelliJ-0078FF?&style=flat-square&logo=IntelliJ&logoColor=White)
-![Eclipse IDE](https://img.shields.io/badge/eclipse%20IDE-2C2255?&style=flat-square&logo=Eclipse%20IDE&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/intelliJ-0078FF?&style=for-the-badge&logo=IntelliJ&logoColor=White)
+![Eclipse IDE](https://img.shields.io/badge/eclipse%20IDE-2C2255?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 
 ### 💬 Other tools ususally use
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?&style=flat-square&logo=postman&logoColor=White)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=White)
 <br>
 <br>🤔 have used..<br>
 ![C](https://img.shields.io/badge/c-A8B9CC?&style=flat-square&logo=C&logoColor=white)
