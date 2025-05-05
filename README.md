@@ -49,6 +49,10 @@ Here are some ideas to get you started:
 
 ### 💬 Other tools ususally use
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=White)
+![Jira](https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-badge&logo=Jira&logoColor=White)
+![Slack](https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=White)
+![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=White)
+
 <br>
 <br>🤔 have used..<br>
 ![C](https://img.shields.io/badge/c-A8B9CC?&style=flat-square&logo=C&logoColor=white)
