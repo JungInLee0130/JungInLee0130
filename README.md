@@ -58,6 +58,8 @@ Here are some ideas to get you started:
 <br>🤔 have used..<br>
 ![C](https://img.shields.io/badge/c-A8B9CC?&style=flat-square&logo=C&logoColor=white)
 ![C#](https://img.shields.io/badge/c%20sharp-239120?&style=flat-square&logo=csharp&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?&style=flat-square&logo=Javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?&style=flat-square&logo=React&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-000000?&style=flat-square&logo=unity&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=flat-square&logo=android&logoColor=White)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=flat-square&logo=Visual%20Studio&logoColor=White)
