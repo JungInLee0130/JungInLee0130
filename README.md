@@ -65,7 +65,6 @@ Here are some ideas to get you started:
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=flat-square&logo=Visual%20Studio&logoColor=White)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
 ![WebRtc](https://img.shields.io/badge/WebRtc-333333.svg?&style=flat-square&logo=WebRtc&logoColor=white)
-
 <br>
 ### 💬 Top Language I used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JungInLee0130)](https://github.com/anuraghazra/github-readme-stats)
