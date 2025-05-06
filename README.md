@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=White)
 
 ### 💬 Other tools ususally use
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=White)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=White)
 
 
 <br>🤔 have used..<br>
