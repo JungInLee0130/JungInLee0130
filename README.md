@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 - 2017.03~2023.02 Sejong University, Seoul
 
 ## 🌱 currently learning
+![Spring](https://img.shields.io/badge/spring-6DB33F?&style=for-the-badge&logo=spring&logoColor=white)
 ![jpa](https://img.shields.io/badge/jpa-6DB33F.svg?&style=for-the-badge&logo=springdatajpa&logoColor=white)
 ![Querydsl](https://img.shields.io/badge/Querydsl-4479A1.svg?&style=for-the-badge&logo=Querydsl&logoColor=white)
 
