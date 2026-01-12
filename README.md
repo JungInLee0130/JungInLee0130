@@ -10,10 +10,8 @@ Here are some ideas to get you started:
 - 2017.03~2023.02 Sejong University, Seoul
 
 ## 🌱 currently learning
-![Spring](https://img.shields.io/badge/spring-6DB33F?&style=for-the-badge&logo=spring&logoColor=white)
-![jpa](https://img.shields.io/badge/jpa-6DB33F.svg?&style=for-the-badge&logo=springdatajpa&logoColor=white)
-![Querydsl](https://img.shields.io/badge/Querydsl-4479A1.svg?&style=for-the-badge&logo=Querydsl&logoColor=white)
-
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 
 
@@ -24,13 +22,13 @@ Here are some ideas to get you started:
 
 # 💪Skills
 ### 💬 Languages
-![Java](https://img.shields.io/badge/java-ED8B00?&style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### 💬 Framework
-![Spring Boot](https://img.shields.io/badge/springboot-6DB33F?&style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ### 💬 ORM
-![jpa](https://img.shields.io/badge/jpa-6DB33F.svg?&style=for-the-badge&logo=springdatajpa&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 ### 💬 Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
@@ -39,9 +37,14 @@ Here are some ideas to get you started:
 ![redis](https://img.shields.io/badge/redis-CD0000.svg?&style=for-the-badge&logo=redis&logoColor=white)
 
 ### 💬 infra
-
 ![aws](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white)
 ![docker](https://img.shields.io/badge/docker-289AFF?&style=for-the-badge&logo=docker&logoColor=white)
+
+### 💬 Frontend
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 💬 IDE
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-0078FF?&style=for-the-badge&logo=intellijidea&logoColor=White)
